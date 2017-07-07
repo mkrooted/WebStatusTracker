@@ -1,0 +1,8 @@
+{
+  "host": "http://www.kinokiwi.com",
+  "method": "http",
+  "interval": 600,
+  "condition": {
+    "size_more_than": 400
+  }
+}

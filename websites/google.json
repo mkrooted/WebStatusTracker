@@ -1,0 +1,6 @@
+{
+  "host": "http://google.com",
+  "method": "http",
+  "interval": 300,
+  "condition": {}
+}
